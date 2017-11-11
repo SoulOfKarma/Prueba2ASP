@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BaseDatosMinimarketModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Minimarket">
+    <Key>
+      <PropertyRef Name="Id_Minimarket" />
+    </Key>
+    <Property Name="Id_Minimarket" Type="int" Nullable="false" />
+    <Property Name="Nombre_Minimarket" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Direccion_Minimarket" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="Id_producto" />
+    </Key>
+    <Property Name="Id_producto" Type="int" Nullable="false" />
+    <Property Name="Nombre_producto" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Marca_producto" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Precio_producto" Type="int" Nullable="false" />
+    <Property Name="Stock_producto" Type="int" Nullable="false" />
+    <Property Name="Id_Minimarket" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="Id_usuario" />
+    </Key>
+    <Property Name="Id_usuario" Type="int" Nullable="false" />
+    <Property Name="Pass_usuario" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="Minimarket_Producto_FK1">
+    <End Role="Minimarket" Type="Self.Minimarket" Multiplicity="1" />
+    <End Role="Producto" Type="Self.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Minimarket">
+        <PropertyRef Name="Id_Minimarket" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="Id_Minimarket" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BaseDatosMinimarketModelStoreContainer">
+    <EntitySet Name="Minimarket" EntityType="Self.Minimarket" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Producto" EntityType="Self.Producto" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="Minimarket_Producto_FK1" Association="Self.Minimarket_Producto_FK1">
+      <End Role="Minimarket" EntitySet="Minimarket" />
+      <End Role="Producto" EntitySet="Producto" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

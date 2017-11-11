@@ -1,0 +1,115 @@
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\ApplicationInsights.config
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.Web.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.Web.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\SolucionMinimarket\CapaPresentacion\bin\ApplicationInsights.config
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.Web.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.Web.xml
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+D:\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+D:\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.xml
+D:\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.SqlServer.dll
+D:\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\ApplicationInsights.config
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.Web.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.xml
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.Web.xml
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Soul\Desktop\prueba asp 2\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

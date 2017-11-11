@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BaseDatosMinimarketModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Minimarket">
+    <Key>
+      <PropertyRef Name="Id_Minimarket" />
+    </Key>
+    <Property Name="Id_Minimarket" Type="Int32" Nullable="false" />
+    <Property Name="Nombre_Minimarket" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Direccion_Minimarket" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Producto" Relationship="Self.Minimarket_Producto_FK1" FromRole="Minimarket" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="Id_producto" />
+    </Key>
+    <Property Name="Id_producto" Type="Int32" Nullable="false" />
+    <Property Name="Nombre_producto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Marca_producto" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Precio_producto" Type="Int32" Nullable="false" />
+    <Property Name="Stock_producto" Type="Int32" Nullable="false" />
+    <Property Name="Id_Minimarket" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Minimarket" Relationship="Self.Minimarket_Producto_FK1" FromRole="Producto" ToRole="Minimarket" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="Id_usuario" />
+    </Key>
+    <Property Name="Id_usuario" Type="Int32" Nullable="false" />
+    <Property Name="Pass_usuario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <Association Name="Minimarket_Producto_FK1">
+    <End Role="Minimarket" Type="Self.Minimarket" Multiplicity="1" />
+    <End Role="Producto" Type="Self.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Minimarket">
+        <PropertyRef Name="Id_Minimarket" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="Id_Minimarket" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BaseDatosMinimarketEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Minimarket" EntityType="Self.Minimarket" />
+    <EntitySet Name="Producto" EntityType="Self.Producto" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" />
+    <AssociationSet Name="Minimarket_Producto_FK1" Association="Self.Minimarket_Producto_FK1">
+      <End Role="Minimarket" EntitySet="Minimarket" />
+      <End Role="Producto" EntitySet="Producto" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Index.aspx" title="Index"  description="Index">
+      <siteMapNode url="ListaProductos.aspx" title="Listado Productos"  description="Listado Productos" >
+        <siteMapNode url="DatosProductos.aspx" title="Detalles Producto" description="Detalles Producto">
+          <siteMapNode url="CotizacionProducto.aspx" title="Cotizacion Productos" description="Cotizacion Productos"/>
+        </siteMapNode>
+      </siteMapNode>
+      <siteMapNode url="Login.aspx" title="Login de usuario"  description="Login de usuario" >
+        <siteMapNode url="Administracion.aspx" title="Administracion" description="Administracion">
+          <siteMapNode url="EditarPrecio.aspx" title="Modificar Precio" description="Modificar Precio"/>
+          <siteMapNode url="AgregarProducto.aspx" title="Agregar Productos" description="Agregar Productos"/>
+          <siteMapNode url="EliminarActualizarProducto.aspx" title="Eliminar o Modificar Producto" description="Eliminar o Modificar Producto" />
+        </siteMapNode>
+      </siteMapNode>
+    </siteMapNode>
+</siteMap>

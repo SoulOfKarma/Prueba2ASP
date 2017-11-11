@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BaseDatosMinimarketModelStoreContainer" CdmEntityContainer="BaseDatosMinimarketEntities">
+    <EntitySetMapping Name="Minimarket">
+      <EntityTypeMapping TypeName="BaseDatosMinimarketModel.Minimarket">
+        <MappingFragment StoreEntitySet="Minimarket">
+          <ScalarProperty Name="Id_Minimarket" ColumnName="Id_Minimarket" />
+          <ScalarProperty Name="Nombre_Minimarket" ColumnName="Nombre_Minimarket" />
+          <ScalarProperty Name="Direccion_Minimarket" ColumnName="Direccion_Minimarket" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Producto">
+      <EntityTypeMapping TypeName="BaseDatosMinimarketModel.Producto">
+        <MappingFragment StoreEntitySet="Producto">
+          <ScalarProperty Name="Id_producto" ColumnName="Id_producto" />
+          <ScalarProperty Name="Nombre_producto" ColumnName="Nombre_producto" />
+          <ScalarProperty Name="Marca_producto" ColumnName="Marca_producto" />
+          <ScalarProperty Name="Precio_producto" ColumnName="Precio_producto" />
+          <ScalarProperty Name="Stock_producto" ColumnName="Stock_producto" />
+          <ScalarProperty Name="Id_Minimarket" ColumnName="Id_Minimarket" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="BaseDatosMinimarketModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="Id_usuario" ColumnName="Id_usuario" />
+          <ScalarProperty Name="Pass_usuario" ColumnName="Pass_usuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
